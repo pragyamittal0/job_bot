@@ -36,13 +36,13 @@ Example output:
 - `discord.py` – Discord bot framework
 - `pandas` – Data analysis
 - `nest_asyncio` – For async compatibility (e.g., Jupyter or Colab)
-- Data Source: Custom CSV file (`Employer Information-2.csv`)
+- Data Source: Custom CSV file (`UCIS data`)
 
 ---
 
 ## 📁 Dataset
 
-> `Employer Information-2.csv`
+> `ucis data`
 
 This dataset includes:
 - Employer names
